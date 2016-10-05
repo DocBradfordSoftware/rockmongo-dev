@@ -1,0 +1,6 @@
+{
+    "name": "root/php7-rockmongo",
+    "require": {
+        "alcaeus/mongo-php-adapter": "^1.0"
+    }
+}
